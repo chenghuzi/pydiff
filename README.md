@@ -5,8 +5,6 @@
 ```
 pip install -e .
 
-# dev purpose
-pip install -e .
 ```
 
 ## Usage
